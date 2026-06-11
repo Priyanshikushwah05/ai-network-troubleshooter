@@ -116,7 +116,7 @@ ai-network-troubleshooter/
 - [ ] Add a subnet calculator tool
 - [ ] Deploy to a cloud server
 
-## 👩 Author
+##  Author
 
 **Priyanshi Kushwah**
 
