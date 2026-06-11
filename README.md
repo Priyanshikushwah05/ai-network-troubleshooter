@@ -76,7 +76,7 @@ Open http://localhost:5000 — that's it.
 
 > UI shows a dark-themed chat interface with a sidebar of common issues (OSPF down, VLAN routing, DHCP failure etc.) and a chat window where the AI responds with structured diagnostics and Cisco IOS commands.
 
-
+![Homepage Screenshot](images/homepage.png)
 
 ---
 
