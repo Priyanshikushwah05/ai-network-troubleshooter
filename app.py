@@ -4,7 +4,8 @@ import io
 
 app = Flask(__name__)
 
-GEMINI_API_KEY = "your-key-name"
+import os
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "your-key-here")
 GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent"
 SYSTEM_PROMPT = """You are NetBot, an expert AI network troubleshooting assistant specializing in Cisco networking and CCNA-level concepts. Help engineers diagnose and resolve network issues.
 
