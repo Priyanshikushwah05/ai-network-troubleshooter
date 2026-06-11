@@ -116,3 +116,10 @@ ai-network-troubleshooter/
 - [ ] Add a subnet calculator tool
 - [ ] Deploy to a cloud server
 
+## 👩 Author
+
+**Priyanshi Kushwah**
+
+ECE Student | CCNA Aspirant | Networking & Cloud Enthusiast
+
+- GitHub: https://github.com/Priyanshikushwah05
